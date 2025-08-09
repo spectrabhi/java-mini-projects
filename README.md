@@ -20,3 +20,4 @@ A collection of Java mini projects categorized into:
 Compile:
 ```bash
 javac *.java
+java Main
